@@ -12,6 +12,7 @@ public class GroupManager
 
         return new Group[0];
     }
+    //hds
 
     private List<string>[] RandomizeGroups(List<string> elements, int numberOfGroups)
     {
