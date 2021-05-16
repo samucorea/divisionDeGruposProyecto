@@ -42,5 +42,24 @@ namespace divisionDeGrupos.Tests
 
             Assert.That(() => input.getArgs(args), Throws.ArgumentException.And.Message.EqualTo("El numero de grupos debe ser mayor a 0."));
         }
+
+        [Test]
+        public void Input_getArgs_MissingArguments()
+        {
+            Input input = new Input();
+            string[] args = { };
+            Assert.That(() => input.getArgs(args), Throws.ArgumentException.And.Message.EqualTo("Formato correcto: (numero de grupos) (direccion de archivo estudiantes) (direccion de archivo temas)"));
+        }
+
+        [Test]
+        public void Input_File_NotFound()
+        {
+            Input input = new Input();
+            string[] args = { };
+            Assert.That(() => input.getArgs(args), Throws.ArgumentException.And.Message.EqualTo("Formato correcto: (numero de grupos) (direccion de archivo estudiantes) (direccion de archivo temas)"));
+        }
+
+
+
     }
 }
