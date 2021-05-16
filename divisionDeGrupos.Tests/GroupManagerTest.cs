@@ -13,7 +13,7 @@ public class GroupManagerTest
     public void setup()
     {
         students = new List<string>() { "Samuel", "Lorenzo", "Mario", "Jonathan", "Leiscar", "Emily" };
-        subjects = new List<string>() { "Historia", "c#", "Julia", "Botanica", "Java" };
+        subjects = new List<string>() { "Historia", "c#", "Julia", "Botanica", "Java" };//ss
 
     }
     [Test]
