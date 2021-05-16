@@ -29,15 +29,22 @@ public class GroupManager
 
         while (elements.Count > 0)
         {
-            int elementIndex = GetRandom_withException(0,elements.Count, null);
+            int elementIndex = GetRandom_withException(0, elements.Count, null);
             string element = elements[elementIndex];
             elements.RemoveAt(elementIndex);
 
             int randomGroup = GetRandom_withException(0, numberOfGroups, exceptions);
             groups[randomGroup].Add(element);
 
-            if(groups[randomGroup].Count == maxNumberOfGroupsMember){
-                
+            if (groups[randomGroup].Count == maxNumberOfGroupsMember)
+            {
+                exceptions.Add(randomGroup);
+
+                if (exceptions.Count == numberOfGroups)
+                {
+                    exceptions.Clear();
+                    maxNumberOfGroupsMember++;
+                }
             }
 
             //generar un numero random (limite de el lenght de la lista estudiantes) y guardar ese elemento en un string
@@ -54,7 +61,7 @@ public class GroupManager
 
             //en caso de que hallan remanente se limpia la lista de excepciones y numero de miembros nax del grupo se le agrega uno (++)
 
-        
+
 
         }
 
@@ -65,18 +72,19 @@ public class GroupManager
     {
         int randomIndex = 0;
         Random random = new Random();
-        
-        if(exceptions is null || exceptions.Count == 0)
+
+        if (exceptions is null || exceptions.Count == 0)
         {
-            return random.Next(inicio,final);
+            return random.Next(inicio, final);
         }
         else
         {
-            do{
-                randomIndex = random.Next(inicio,final);
+            do
+            {
+                randomIndex = random.Next(inicio, final);
 
             }
-            while(exceptions.Contains(randomIndex));
+            while (exceptions.Contains(randomIndex));
         }
 
         return randomIndex;
