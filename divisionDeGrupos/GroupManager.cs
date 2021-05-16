@@ -23,11 +23,35 @@ public class GroupManager
         {
             groups[i] = new List<string>();
         }
+
         while (elements.Count > 0)
         {
+
+            //generar un numero random (limite de el lenght de la lista estudiantes) y guardar ese elemento en un string
+            // remover estudiante de la lista original
+
+            //crear lista de grupos que estaran llenos (hacer la excepcion de ese elemento)
+            //generar numero random para agregarlo al grupo (que no este en la lista de excepciones, limite = numero de grupos)
+
+            //se añade ese elemento a la lista de grupos (add)
+
+            //condicion si count del grupo sea igual a (maxNumberOfGroupsMember) --> ponlo en la lista de excepciones
+
+            //condicion si se llenan todos los grupos --> numero de elementos de lista excepcion == a la lista de grupos
+
+            //en caso de que hallan remanente se limpia la lista de excepciones y numero de miembros nax del grupo se le agrega uno (++)
+
+        
 
         }
 
         return groups;
+    }
+
+    private int GetRandom_withException(int inicio, int final, List<int> exceptions)
+    {
+        int randomIndex;
+
+        return randomIndex;
     }
 }
