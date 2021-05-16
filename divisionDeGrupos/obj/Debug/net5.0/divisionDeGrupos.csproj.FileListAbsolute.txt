@@ -1,0 +1,16 @@
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.exe
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.deps.json
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.runtimeconfig.json
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.runtimeconfig.dev.json
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.dll
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\ref\divisionDeGrupos.dll
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.pdb
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.csprojAssemblyReference.cache
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.AssemblyInfoInputs.cache
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.AssemblyInfo.cs
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.csproj.CoreCompileInputs.cache
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.dll
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\ref\divisionDeGrupos.dll
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.pdb
+C:\Users\jonaa\source\repos\ProyectoGrupo\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.genruntimeconfig.cache

@@ -6,7 +6,8 @@ namespace divisonDeGrupos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Input input = new Input();
+            input.getArgs(args);
         }
     }
 }
