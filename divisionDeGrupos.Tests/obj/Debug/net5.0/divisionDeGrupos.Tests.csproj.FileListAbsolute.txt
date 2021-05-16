@@ -208,3 +208,11 @@ C:\Users\Lenovo\Desktop\TDA\divisionDeGruposProyecto\divisionDeGrupos.Tests\obj\
 C:\Users\Lenovo\Desktop\TDA\divisionDeGruposProyecto\divisionDeGrupos.Tests\obj\Debug\net5.0\ref\divisionDeGrupos.Tests.dll
 C:\Users\Lenovo\Desktop\TDA\divisionDeGruposProyecto\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.pdb
 C:\Users\Lenovo\Desktop\TDA\divisionDeGruposProyecto\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.genruntimeconfig.cache
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.AssemblyInfo.cs
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.dll
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\ref\divisionDeGrupos.Tests.dll
+C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos.Tests\obj\Debug\net5.0\divisionDeGrupos.Tests.pdb

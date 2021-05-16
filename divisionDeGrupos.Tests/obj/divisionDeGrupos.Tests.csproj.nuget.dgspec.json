@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj": {}
+    "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj": {
+    "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj",
         "projectName": "divisionDeGrupos.Tests",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos.Tests\\divisionDeGrupos.Tests.csproj",
+        "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Samuel\\Downloads\\pastel-master": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj"
+              "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\divisionDeGrupos.csproj": {
+                "projectPath": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\divisionDeGrupos.csproj"
               }
             }
           }
@@ -72,21 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj": {
+    "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\divisionDeGrupos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
+        "projectUniqueName": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\divisionDeGrupos.csproj",
         "projectName": "divisionDeGrupos",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\obj\\",
+        "projectPath": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\divisionDeGrupos.csproj",
+        "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,6 +95,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Samuel\\Downloads\\pastel-master": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -126,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,24 +8,27 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RacielPC\\.nuget\\packages\\": {}
+    "C:\\Users\\Samuel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RacielPC\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\divisionDeGrupos.csproj",
       "projectName": "divisionDeGrupos",
-      "projectPath": "C:\\Users\\RacielPC\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
-      "packagesPath": "C:\\Users\\RacielPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RacielPC\\divisionDeGruposProyecto\\divisionDeGrupos\\obj\\",
+      "projectPath": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\divisionDeGrupos.csproj",
+      "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Samuel\\Documents\\divisionGruposProyectoGrupal\\divisionDeGrupos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RacielPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Samuel\\Downloads\\pastel-master": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
