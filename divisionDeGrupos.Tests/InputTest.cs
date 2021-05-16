@@ -55,8 +55,8 @@ namespace divisionDeGrupos.Tests
         public void Input_File_NotFound()
         {
             Input input = new Input();
-            string[] args = { };
-            Assert.That(() => input.getArgs(args), Throws.ArgumentException.And.Message.EqualTo("Formato correcto: (numero de grupos) (direccion de archivo estudiantes) (direccion de archivo temas)"));
+            string[] args = {"3", "estudiantes.txt", "temas" };
+            Assert.That(() => input.getArgs(args), Throws.Exception.TypeOf<FileNotFoundException>.And.Message.EqualTo("No se encontro el archivo (estudiante) o (temas)"));
         }
 
 

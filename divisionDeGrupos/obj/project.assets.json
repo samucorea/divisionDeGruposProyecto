@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\RacielPC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
+      "projectUniqueName": "C:\\Users\\RacielPC\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
       "projectName": "divisionDeGrupos",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\TDA\\divisionDeGruposProyecto\\divisionDeGrupos\\obj\\",
+      "projectPath": "C:\\Users\\RacielPC\\divisionDeGruposProyecto\\divisionDeGrupos\\divisionDeGrupos.csproj",
+      "packagesPath": "C:\\Users\\RacielPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RacielPC\\divisionDeGruposProyecto\\divisionDeGrupos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\RacielPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
