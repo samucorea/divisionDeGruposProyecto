@@ -12,4 +12,21 @@ public class GroupManager
 
         return new Group[0];
     }
+
+    private List<string>[] RandomizeGroups(List<string> elements, int numberOfGroups)
+    {
+        int maxNumberOfGroupsMember = elements.Count / numberOfGroups;
+
+        List<string>[] groups = new List<string>[numberOfGroups];
+        for (int i = 0; i < groups.Length; i++)
+        {
+            groups[i] = new List<string>();
+        }
+        while (elements.Count > 0)
+        {
+
+        }
+
+        return groups;
+    }
 }

@@ -1,6 +1,8 @@
 using NUnit.Framework;
 using divisionDeGrupos;
 using System;
+using System.IO;
+
 namespace divisionDeGrupos.Tests
 {
     public class InputTest
@@ -57,7 +59,7 @@ namespace divisionDeGrupos.Tests
         {
             Input input = new Input();
             string[] args = { "3", "estudiantes.txt", "temas" };//s
-            //  Assert.That(() => input.getArgs(args), Throws.Exception.TypeOf<FileNotFoundException>().And.Message.EqualTo("No se encontro el archivo (estudiante) o (temas)"));
+           Assert.That(() => input.getArgs(args), Throws.Exception.TypeOf<FileNotFoundException>().And.Message.EqualTo("No se encontro el archivo (estudiante) o (temas)"));
         }
 
 
