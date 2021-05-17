@@ -73,7 +73,7 @@ public class GroupManagerTest
                 groupsWithTwoSubjects++;
             }
         }
-        //s
+        //ssds
         Assert.AreEqual(3, groupsWithTwoStudents);
         Assert.AreEqual(1, groupsWithOneStudent);
         Assert.AreEqual(2, groupsWithTwoSubjects);
