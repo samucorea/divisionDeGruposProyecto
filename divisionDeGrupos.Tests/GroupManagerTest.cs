@@ -77,7 +77,7 @@ public class GroupManagerTest
         Assert.AreEqual(3, groupsWithTwoStudents);
         Assert.AreEqual(1, groupsWithOneStudent);
         Assert.AreEqual(2, groupsWithTwoSubjects);
-        Assert.AreEqual(1, groupsWithOneSubject);
+        Assert.AreEqual(2, groupsWithOneSubject);
 
 
     }

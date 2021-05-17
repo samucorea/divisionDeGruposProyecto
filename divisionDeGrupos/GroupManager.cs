@@ -9,8 +9,20 @@ public class GroupManager
         {
             throw new ArgumentException("El numero de grupos no puede ser mayor que la cantidad de estudiantes y/o temas.");
         }
+        List<string>[] arrangedStudents = RandomizeGroups(students, numberOfGroups);
+        List<string>[] arrangedSubjects = RandomizeGroups(subjects, numberOfGroups);
 
-        return new Group[0];
+        Group[] groups = new Group[numberOfGroups];
+
+        for (int i = 0; i < groups.Length; i++)
+        {
+            groups[i] = new Group();
+            groups[i].Number = i + 1;
+            groups[i].Students = arrangedStudents[i].ToArray();
+            groups[i].Subjects = arrangedSubjects[i].ToArray();
+        }
+
+        return groups;
     }
     //hds
 

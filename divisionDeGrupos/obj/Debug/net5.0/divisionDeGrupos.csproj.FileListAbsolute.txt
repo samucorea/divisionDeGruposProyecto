@@ -46,3 +46,19 @@ C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos\obj\Debu
 C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos\obj\Debug\net5.0\ref\divisionDeGrupos.dll
 C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.pdb
 C:\Users\Samuel\Documents\divisionGruposProyectoGrupal\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.genruntimeconfig.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.exe
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.deps.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.runtimeconfig.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.runtimeconfig.dev.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\ref\divisionDeGrupos.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.pdb
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.csprojAssemblyReference.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.AssemblyInfoInputs.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.AssemblyInfo.cs
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.csproj.CoreCompileInputs.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\ref\divisionDeGrupos.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.pdb
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.genruntimeconfig.cache
