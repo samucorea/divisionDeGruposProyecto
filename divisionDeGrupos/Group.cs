@@ -1,4 +1,4 @@
-
+using System;
 public class Group
 {
 
@@ -11,7 +11,7 @@ public class Group
     {
         Console.WriteLine("----------------------------------------");
         
-        Console.Write($"Grupo: {Number} Temas: {string.Join(',',Subjects)}");
+        Console.WriteLine($"Grupo: {Number} Temas: {string.Join(',',Subjects)}");
 
         for (int i = 0; i < Students.Length; i++)
         {

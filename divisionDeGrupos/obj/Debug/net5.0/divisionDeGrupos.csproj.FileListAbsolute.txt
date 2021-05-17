@@ -62,3 +62,19 @@ D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicacio
 D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\ref\divisionDeGrupos.dll
 D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.pdb
 D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.genruntimeconfig.cache
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.csprojAssemblyReference.cache
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.AssemblyInfoInputs.cache
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.AssemblyInfo.cs
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.csproj.CoreCompileInputs.cache
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.dll
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\ref\divisionDeGrupos.dll
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.pdb
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.exe
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.deps.json
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.runtimeconfig.json
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.runtimeconfig.dev.json
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.dll
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\ref\divisionDeGrupos.dll
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\bin\Debug\net5.0\divisionDeGrupos.pdb
+C:\Users\RacielPC\Nueva carpeta (2)\divisionDeGruposProyecto\divisionDeGrupos\obj\Debug\net5.0\divisionDeGrupos.genruntimeconfig.cache

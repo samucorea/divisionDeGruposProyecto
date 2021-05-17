@@ -50,6 +50,12 @@ public class Input
 
                 Group[] arrangeGroups = manager.GetRandomizedGroups(studentsList,subjectsList, numberOfGroups);
 
+                foreach(var group in arrangeGroups)
+                {
+                    group.Print();
+                }
+
+
 
 
         }
