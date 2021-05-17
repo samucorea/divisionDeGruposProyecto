@@ -46,8 +46,11 @@ public class Input
                 List<string> studentsList = new List<string>(students);
                 List<string> subjectsList = new List<string>(subjects);
 
+                GroupManager manager = new GroupManager();
 
-            
+                Group[] arrangeGroups = manager.GetRandomizedGroups(studentsList,subjectsList, numberOfGroups);
+
+
 
         }
         else

@@ -7,4 +7,22 @@ public class Group
     public string[] Subjects { get; set; }
 
 
+    public void Print()
+    {
+        Console.WriteLine("----------------------------------------");
+        
+        Console.Write($"Grupo: {Number} Temas: {string.Join(',',Subjects)}");
+
+        for (int i = 0; i < Students.Length; i++)
+        {
+            Console.WriteLine(Students[i]);
+        }
+
+
+        //Grupo 1   Temas:{}
+        //fulano
+        //mengano
+    }
+
+
 }
